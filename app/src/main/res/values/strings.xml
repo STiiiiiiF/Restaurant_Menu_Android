@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Restaurant menu</string>
+
+    <string name="logo">logo</string>
+
+    <string-array name="option">
+        <item>Напитки</item>
+        <item>Еда</item>
+        <item>Салаты</item>
+    </string-array>
+</resources>
